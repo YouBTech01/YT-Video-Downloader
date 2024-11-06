@@ -63,6 +63,3 @@ Before you run the app, ensure you have the following tools and libraries instal
 1. **Clone the Repository**:
    Clone this repository to your local machine:
 
-   ```bash
-   git clone https://github.com/yourusername/youtube-downloader-flask.git
-   cd youtube-downloader-flask
